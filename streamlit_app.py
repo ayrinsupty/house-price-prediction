@@ -8,7 +8,11 @@ import io
 model = joblib.load("models/tuned/best_random_forest.pkl")
 feature_list = joblib.load("models/tuned/features.pkl")
 
-st.set_page_config(page_title="House Price Prediction", layout="wide")
+st.set_page_config(
+    page_title="House Price Prediction",
+    page_icon="🏡",
+    layout="wide"
+)
 
 st.title("🏡 House Price Prediction App")
 st.markdown("Estimate a house's sale price by filling in key features in the sidebar.")
