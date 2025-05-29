@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import io
 
 # Load model and features
-model = joblib.load("../models/tuned/best_random_forest.pkl")
-feature_list = joblib.load("../models/tuned/features.pkl")
+model = joblib.load("models/tuned/best_random_forest.pkl")
+feature_list = joblib.load("models/tuned/features.pkl")
 
 st.set_page_config(page_title="House Price Prediction", layout="wide")
 
