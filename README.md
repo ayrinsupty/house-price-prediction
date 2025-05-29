@@ -12,20 +12,6 @@ This project uses the **Kaggle House Prices dataset** to build regression models
 
 ---
 
-## 📅 Progress Log
-
-| Day | Focus                         | Status        |
-|-----|-------------------------------|---------------|
-| 1   | Data Loading & Structure      | ✅ Completed |
-| 2   | Visual EDA                    | ✅ Completed |
-| 3   | Data Cleaning & Preprocessing | 🔜 To Do     |
-| 4   | Modeling (Linear, Tree)       | 🔜 To Do     |
-| 5   | Feature Engineering & Tuning  | 🔜 To Do     |
-| 6   | Streamlit App Integration     | 🔜 To Do     |
-| 7   | Final Review & Deployment     | 🔜 To Do     |
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository  
